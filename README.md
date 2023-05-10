@@ -1,11 +1,12 @@
-# Website-1
-A repository for web development for creating my own website.
-1 Meaning the first version which includes basic features ( Mainly html, CSS, some javascript )
+# Personal Website
+A repository for web development for creating my own website & improving on it.
 
-## Project yet to be completed
+## Project yet to be completed / always in progress
 
-__Things needed to be done__
+__Things needed to be done for V1__
+includes basic features ( Mainly html, CSS, some javascript )
 - [ ] landing page
 - [ ] About me
 - [ ] A simple program ( Unknown of what yet )
 - [ ] Better Styling with CSS
+- [ ] Host it online!
